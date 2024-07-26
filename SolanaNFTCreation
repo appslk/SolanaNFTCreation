@@ -2,6 +2,7 @@ solana-keygen new --outfile Owner.json
 
 solana config set --keypair Owner.json
 
+solana config set --url <RPC endpoint URL/>
 solana config set --url https://api.devnet.solana.com
 
 solana config get

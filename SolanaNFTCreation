@@ -2,8 +2,6 @@ solana-keygen new --outfile Owner.json
 
 solana config set --keypair Owner.json
 
-solana config set --url https://empty-red-lake.solana-mainnet.quiknode.pro/316f08b779efa1c73cc2a1e954373750ea5af567/
-
 solana config set --url https://api.devnet.solana.com
 
 solana config get

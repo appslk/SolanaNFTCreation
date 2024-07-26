@@ -6,17 +6,9 @@ solana config set --url https://api.devnet.solana.com
 
 solana config get
 
-sugar config create / sugar launch
-
-sugar validate
-
 sugar launch
-
-sugar verify
 
 //Optional
 sugar upload
 sugar deploy
-
-
-
+sugar verify

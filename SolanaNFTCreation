@@ -12,8 +12,13 @@ sugar config create / sugar launch
 
 sugar validate
 
-sugar upload
-
-sugar deploy
+sugar launch
 
 sugar verify
+
+//Optional
+sugar upload
+sugar deploy
+
+
+
